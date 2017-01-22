@@ -34,3 +34,13 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
 
+### Model
+The architecture is
+
+![model](./model.png)
+
+where each block is designed as follows
+
+![block](./block.png)
+
+Also, L2 regularization is applied for the fully connected layer FC
