@@ -44,3 +44,6 @@ where each block is designed as follows
 ![block](./block.png)
 
 Also, L2 regularization is applied for the fully connected layer FC
+
+### Result
+This model archive 99.00% accuracy on the official test set.
