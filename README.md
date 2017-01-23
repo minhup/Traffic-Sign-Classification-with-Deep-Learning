@@ -1,4 +1,3 @@
-# [![Udacity - Self-Driving Car
 # Deep Learning
 ## Project: Build a Traffic Sign Recognition Program
 
